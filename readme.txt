@@ -25,7 +25,7 @@ To get started with DataChat, follow these simple steps:
 
 3. Run the Application:
    Launch the application and start interacting with your data.
-   python app.py
+   streamlit run app.py
 
 Documentation
 -------------
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 -------
-For questions, feedback, or support, please open an issue on GitHub or contact us at support@datachat.com.
+For questions, feedback, or support, please open an issue on GitHub or contact us at <tbp>
